@@ -1,0 +1,23 @@
+{
+  "name": "programmersguide-ic-wiki",
+  "version": "1.0.0",
+  "description": "This project constitutes an in-character TiddleWiki notebook for my story, \"A Programmer's Guide to Witchcraft and Wizardry\".",
+  "main": "index.js",
+  "scripts": {
+    "start": "tiddlywiki . --listen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojotastic777/programmersguide-ic-wiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojotastic777/programmersguide-ic-wiki/issues"
+  },
+  "homepage": "https://github.com/jojotastic777/programmersguide-ic-wiki#readme",
+  "dependencies": {
+    "tiddlywiki": "^5.1.22"
+  }
+}
