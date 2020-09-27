@@ -1,0 +1,15 @@
+created: 20200927053433106
+modified: 20200927053648009
+tags: 
+title: Home
+type: text/vnd.tiddlywiki
+
+! Subjects
+!! Primary
+{{Primary Subject}}
+
+!! Secondary
+{{Secondary Subject}}
+
+!! Untaught
+{{Untaught Subject}}
