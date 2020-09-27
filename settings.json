@@ -10,10 +10,10 @@
     // V V V V Uncomment one of the following V V V V 
 
     //bind to localhost only (you can specify any other ip address in this array, and it will bind to all available addresses)
-    // "bindAddress": ["127.0.0.1"],
+    "bindAddress": ["127.0.0.1"],
 
     //bind to 0.0.0.0
-    "bindWildcard": true
+    // "bindWildcard": true
 
     //workaround for android devices (bind to all available private ip addresses on startup)
     // "bindWildcard": false, "bindAddress": ["192.168.0.0/16", "10.0.0.0/8", "172.31.0.0/16"], "filterBindAddress": true,
