@@ -1,6 +1,8 @@
-# Programmer's Guide to Witchcraft and Wizardry: In-Character TiddleWiki Notebook
+# Programmer's Guide to Witchcraft and Wizardry: TiddlyWiki Edition
 
-This project constitutes an in-character TiddleWiki notebook for my story, "A Programmer's Guide to Witchcraft and Wizardry".
+This project contains everything in my story, "A Programmer's Guide to Witchcraft and Wizardry", in the form of a TiddlyWiki.
+
+Note that, as of writing this, most of the story hasn't been transferred over yet.
 
 ## Usage
 
