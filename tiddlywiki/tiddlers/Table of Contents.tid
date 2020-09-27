@@ -1,0 +1,11 @@
+created: 20200927085103109
+modified: 20200927085330898
+tags: 
+title: Table of Contents
+type: text/vnd.tiddlywiki
+
+! Arc 1: `INITIALIZE`
+<<list-links "[tag[Journal]tag[Arc 1]]">>
+
+! Arc 2: `MULTITHREAD`
+<<list-links "[tag[Journal]tag[Arc 2]]">>
