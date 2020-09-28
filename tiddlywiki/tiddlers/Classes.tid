@@ -1,0 +1,20 @@
+created: 20200928084840971
+modified: 20200928110716587
+tags: 
+title: Classes
+type: text/vnd.tiddlywiki
+
+<$set name="coreEmpty" value="Core Classes" emptyValue="" filter="[tag[Core Class]]">
+<h1><<coreEmpty>></h1>
+</$set>
+{{Core Class}}
+
+<$set name="electiveEmpty" value="Elective Classes" emptyValue="" filter="[tag[Elective Class]]">
+<h1><<electiveEmpty>></h1>
+</$set>
+{{Elective Class}}
+
+<$set name="unsortedEmpty" value="Unsorted Classes"  emptyValue=""filter="[tag[Unsorted Class]]">
+<h1><<unsortedEmpty>></h1>
+</$set>
+{{Unsorted Class}}

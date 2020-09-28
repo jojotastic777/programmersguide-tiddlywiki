@@ -1,0 +1,30 @@
+created: 20200928084359427
+modified: 20200928084420877
+tags: Class [[Core Class]]
+title: Charms
+type: text/vnd.tiddlywiki
+
+Charms... seems a bit odd, at first glance. There isn't anything immediately obvious that //makes// something a "charm", and so what would a whole class about Charms be about?
+
+Over the last few months of actually //attending// Charms class, however, I have been able to determine a pattern:
+
+There are a number of properties that all charms share:
+
+* There is no obvious indicator when a charm is cast besides the effect of the charm itself.
+** An example of this would be the Levitation charm: //[[Wingardium Leviosa]]//. There is no flash of light when the charm is cast, nor is there any obvious connection between the caster and the target.
+** This is in stark contrast to, for example, //[[Stupefy]]//. //[[Stupefy]]//, when cast, shoots a bolt of red light which, if it hits a living target, renders that target unconscious.
+* A charm takes effect //instantly,// with no time to get out of the way or dodge.
+* Charms work exclusively on nonliving or consensual-living targets.
+** ("Consensual-living" refers to a living target which both knows that a spell is being cast on them and allows it to take effect.)
+** Fun Fact: Categories of spells that //don't// require living targets' consent are still //almost universally// easier with consenting targets.
+
+Something that is important to note, as well, is that spell categories aren't mutually exclusive. A spell can, for example, count as both a charm and a [[transfiguration|Transfiguration]].
+
+A good example of this is the //[[Incendio]]// charm, which conjures fire despite [[Conjuration]] being a subcategory of [[Transfiguration]], not Charms.
+
+Another thing seemingly unique to Charms is the fact that some charms have multiple "modes", so to speak. A good example of this would be the //[[Incendio]]// charm (again), which can either shoot a stream of fire from the caster's wand //or// ignite a specific target.
+
+One final thing that seems to be unique to Charms is the fact that, with sufficient skill, any charm can be cast on multiple targets simultaneously. Taking the [[Levitation charm|Wingardium Leviosa]] as an example, a skilled caster could levitate an entire field of shattered glass, moving each shard independently of the others. (It occurs to me just after writing that example that such a thing would be //extremely cool// to watch, especially if applied to combat or similar activities.)
+
+! See Also
+* [[List of Charms]]
