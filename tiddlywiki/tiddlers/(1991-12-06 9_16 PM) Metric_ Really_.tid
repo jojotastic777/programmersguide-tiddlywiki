@@ -4,34 +4,34 @@ tags: [[Arc 2]] Journal
 title: (1991-12-06 9:16 PM) Metric? Really?
 type: text/vnd.tiddlywiki
 
-I’ve come to the conclusion that ritual-making is, in fact, programming with extra steps.
+I've come to the conclusion that ritual-making is, in fact, programming with extra steps.
 
 This is good.
 
 <hr />
 
-The language that rituals are written in, which is not-so-coincidentally the same language that is taught in the ‘ancient runes’ class, can usefully be thought of as a sort of functional programming language, except that instead of IO including things like ‘read from a file’ or ‘print to STDOUT’, it consists entirely of reality-warping effects.
+The language that rituals are written in, which is not-so-coincidentally the same language that is taught in the 'ancient runes' class, can usefully be thought of as a sort of functional programming language, except that instead of IO including things like 'read from a file' or 'print to STDOUT', it consists entirely of reality-warping effects.
 
-What’s interesting is the fact that there are ‘IO’ functions available at many different levels of abstraction.
+What's interesting is the fact that there are 'IO' functions available at many different levels of abstraction.
 
-For example, there is a function that emits a single photon at a particular point and along a particular vector. This particular function takes a great many arguments, starting with the position relative to the ‘focus’ of the ritual at which a photon is to be emitted and continuing through every conceivable property that a photon might have. This is likely the lowest-level version of a function that emits light.
+For example, there is a function that emits a single photon at a particular point and along a particular vector. This particular function takes a great many arguments, starting with the position relative to the 'focus' of the ritual at which a photon is to be emitted and continuing through every conceivable property that a photon might have. This is likely the lowest-level version of a function that emits light.
 
-A high-level function, on the other hand, might create a point of white light at a specified position and intensity, being rather similar to a ‘lumos‘ charm.
+A high-level function, on the other hand, might create a point of white light at a specified position and intensity, being rather similar to a 'lumos' charm.
 
 What is utterly confounding, however, is the units that the parameters to these low-level functions take:
 
 Metric.
 
-//Why does magic measure things in metric?// You would expect that something like magic, which is presumably significantly older than not only the metric system but also //human civilization itself,// would use some sort of arcane measurement system that has very little to do with human inventions like ‘meters’ or ‘grams’, but //no,// for //some reason// it measures everything using the //metric system.//
+//Why does magic measure things in metric?// You would expect that something like magic, which is presumably significantly older than not only the metric system but also //human civilization itself,// would use some sort of arcane measurement system that has very little to do with human inventions like 'meters' or 'grams', but //no,// for //some reason// it measures everything using the //metric system.//
 
-This, more than anything else, makes me think that this magic system, these ‘runes’ that define most if not all magic that humans know how to cast, are not all there is to magic.
+This, more than anything else, makes me think that this magic system, these 'runes' that define most if not all magic that humans know how to cast, are not all there is to magic.
 
 In short, I suspect that the magic system these wizards and witches use is, in fact, artificial.
 
-At the moment, I have //no idea// how I would go about testing that theory, besides staring at lots of different spells and rituals using this ‘magic sense’ that I seem to have.
+At the moment, I have //no idea// how I would go about testing that theory, besides staring at lots of different spells and rituals using this 'magic sense' that I seem to have.
 
-… We’ll just have to see, I guess.
+… We'll just have to see, I guess.
 
 <<<
-A/N: So, I realized that I forgot to push this out last Sunday. Sorry about that! Also sorry that this is so short, but I’ve honestly been struggling to come up with stuff to actually //write about.// I will, of course, keep at it. I have //zero// intention of abandoning this story //any time soon.//
+A/N: So, I realized that I forgot to push this out last Sunday. Sorry about that! Also sorry that this is so short, but I've honestly been struggling to come up with stuff to actually //write about.// I will, of course, keep at it. I have //zero// intention of abandoning this story //any time soon.//
 <<<
