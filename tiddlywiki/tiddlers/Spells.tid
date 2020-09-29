@@ -1,0 +1,15 @@
+created: 20200929015954153
+modified: 20200929020424700
+tags: 
+title: Spells
+type: text/vnd.tiddlywiki
+
+<$set name="heading" value="Charms" emptyValue="" filter="[tag[Charm]]">
+<h1><<heading>></h1>
+</$set>
+{{Charm}}
+
+<$set name="heading" value="Uncategorized Spells" emptyValue="" filter="[tag[Spell]!tag[Charm]]">
+<h1><<heading>></h1>
+</$set>
+{{Uncategorized Spells}}

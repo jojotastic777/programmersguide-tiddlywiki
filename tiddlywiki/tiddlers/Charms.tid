@@ -1,5 +1,5 @@
 created: 20200928084359427
-modified: 20200928084420877
+modified: 20200929015529180
 tags: Class [[Core Class]]
 title: Charms
 type: text/vnd.tiddlywiki
@@ -20,11 +20,8 @@ There are a number of properties that all charms share:
 
 Something that is important to note, as well, is that spell categories aren't mutually exclusive. A spell can, for example, count as both a charm and a [[transfiguration|Transfiguration]].
 
-A good example of this is the //[[Incendio]]// charm, which conjures fire despite [[Conjuration]] being a subcategory of [[Transfiguration]], not Charms.
+A good example of this is the //[[Incendio]]// charm, which conjures fire despite Conjuration being a subcategory of [[Transfiguration]], not Charms.
 
 Another thing seemingly unique to Charms is the fact that some charms have multiple "modes", so to speak. A good example of this would be the //[[Incendio]]// charm (again), which can either shoot a stream of fire from the caster's wand //or// ignite a specific target.
 
 One final thing that seems to be unique to Charms is the fact that, with sufficient skill, any charm can be cast on multiple targets simultaneously. Taking the [[Levitation charm|Wingardium Leviosa]] as an example, a skilled caster could levitate an entire field of shattered glass, moving each shard independently of the others. (It occurs to me just after writing that example that such a thing would be //extremely cool// to watch, especially if applied to combat or similar activities.)
-
-! See Also
-* [[List of Charms]]
